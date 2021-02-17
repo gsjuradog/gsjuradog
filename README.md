@@ -26,7 +26,9 @@ Looking to collaborate on projects related to my three greatest passions: **gami
 
 - 📫 How to reach me: gsuradogon@gmail.com
 
-- 😄 Pronouns: Him/his, el
+- 😄 Pronouns: He/Him/his, el
 
 - ⚡ Fun fact: my patronus is a Tortoiseshell Cat 😼 I secretly love Cumbia in all its versions, from Totó la Momposina to Chico Trujillo! 💃 
+
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsjuradog&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
