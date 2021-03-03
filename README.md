@@ -1,6 +1,6 @@
 
 <div style="width: 100%; display:flex; justify-content:space-evenly; flex-wrap: wrap; margin-bottom:10">
-  <img src="img/Blog_post.png" alt="Header"/>
+  <img src="img/HeroImg.png" alt="Header"/>
 </div>
 
 ***
